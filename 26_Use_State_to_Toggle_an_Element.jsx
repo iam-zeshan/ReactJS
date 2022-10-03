@@ -61,7 +61,7 @@ class MyComponent extends React.Component {
          } else {
            return { visibility: true };
         }
-      })
+      });
     }
     // Change code above this line
     render() {
